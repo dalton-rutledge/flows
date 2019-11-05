@@ -1,2 +1,2 @@
 # flows
-flows for geni
+flows for geni, see these flows
